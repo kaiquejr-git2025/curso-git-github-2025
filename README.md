@@ -10,6 +10,10 @@ GitFlow ao final do curso e Visual Studio Code.
 https://cursos.teomewhy.org/trilhas
 ## Fluxo de trabalho Git local
 
+Além do nosso YouTube, Se ligue em nosso site e agenda pra ficar por dentro de tudo que vai rolar em 2025
+
+[teomewhy](https;//teomewhy.org.schedule)
+
 01. git checkout -b <nova-branch>
 02. cria ou atualiza arquivos
 03. git status
