@@ -7,7 +7,7 @@ repositórios remotos com GitHub.
 
 Além disso, vamos trabalhar com
 GitFlow ao final do curso e Visual Studio Code.
-
+https://cursos.teomewhy.org/trilhas
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
